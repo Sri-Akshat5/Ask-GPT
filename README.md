@@ -27,4 +27,4 @@ You can download the APK from the following link:
 
 You can also download the APK from the following path:
 ```bash
-askgpt/build/app/outputs/apk/release
+Ask-GPT/app-debug.apk
